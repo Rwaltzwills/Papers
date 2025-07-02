@@ -118,8 +118,8 @@ Assuming that the kitchens only require one full floor from these buildings, wit
 
 **Daily Ingredients:**
 Two companies profiled revealed ingredient lists for a day of cooking. The estimated weights and prices in yen normalized to 1,000 bentos is as follows:
-Musashino School Kitchen   -  196.6kg, 147,583.33 yen ($1,026.16 USD)
-Mugga Dosirak              - 174.16kg, 380,502.5 yen ($2645.68 USD)
+- Musashino School Kitchen   -  196.6kg, 147,583.33 yen ($1,026.16 USD)
+- Mugga Dosirak              - 174.16kg, 380,502.5 yen ($2645.68 USD)
 
 Giving us an expectation 180-190kg of food to produce 1,000 bentos on average.
 
